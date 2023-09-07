@@ -1,0 +1,5 @@
+Nome: Neto
+Palavra: goela
+Tentativas: 6
+Tempo: 304,561 segundos
+------------------------------
